@@ -10,8 +10,6 @@ This was the final project for the Introduction to Programming course at Nova SB
 
 ## Usage
 
-- Press "s" to save the current game
-
 ### To start a game from scratch:
 
 ```
@@ -35,3 +33,7 @@ Example:
 ```
 python3 play.py game3.json
 ```
+
+### To save the current game:
+
+Press "s"
