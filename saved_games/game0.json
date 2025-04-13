@@ -1,0 +1,39 @@
+{
+  "players": [
+    {
+      "name": "Angelo",
+      "position": 11,
+      "balance": 930,
+      "out_of_library_cards": 1,
+      "rounds_in_library_left": 0,
+      "bankrupt": false
+    },
+    {
+      "name": "Luís",
+      "position": 9,
+      "balance": 1000,
+      "out_of_library_cards": 0,
+      "rounds_in_library_left": 0,
+      "bankrupt": false
+    },
+    {
+      "name": "Ricardo",
+      "position": 13,
+      "balance": 1800,
+      "out_of_library_cards": 1,
+      "rounds_in_library_left": 0,
+      "bankrupt": false
+    },
+    {
+      "name": "Cláudio",
+      "position": 6,
+      "balance": 1280,
+      "out_of_library_cards": 0,
+      "rounds_in_library_left": 0,
+      "bankrupt": false
+    }
+  ],
+  "properties": [0, 3, 1, null, null, 0, null, 2],
+  "current_player": 2,
+  "santander_money": 150
+}

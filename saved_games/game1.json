@@ -1,0 +1,40 @@
+{
+    "players": [
+      {
+        "name": "Martim",
+        "position": 6,
+        "balance": 1200,
+        "out_of_library_cards": 1,
+        "rounds_in_library_left": 0,
+        "bankrupt": false
+      },
+      {
+        "name": "Fred",
+        "position": 4,
+        "balance": 850,
+        "out_of_library_cards": 0,
+        "rounds_in_library_left": 2,
+        "bankrupt": false
+      },
+      {
+        "name": "Timm",
+        "position": 9,
+        "balance": 1300,
+        "out_of_library_cards": 3,
+        "rounds_in_library_left": 0,
+        "bankrupt": false
+      },
+      {
+        "name": "Emily",
+        "position": 6,
+        "balance": 900,
+        "out_of_library_cards": 1,
+        "rounds_in_library_left": 0,
+        "bankrupt": false
+      }
+    ],
+    "properties": [0, null, 1, null, null, null, 2, null],
+    "current_player": 0,
+    "santander_money": 0,
+    "speed": 1
+  }
