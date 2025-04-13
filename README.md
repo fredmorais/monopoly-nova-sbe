@@ -1,6 +1,8 @@
 # Monopoly Nova SBE
 
-<img src="https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec" alt="Discord"/>
+<p align="center">
+<img src="assets/logo.png" width="300" title="Monopoly Nova SBE">
+</p>
 
 ## Why
 
